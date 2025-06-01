@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm M Naeem Akram
 
 🔝 **Top Rated Plus on Upwork** | 💼 **Senior Full-Stack Laravel Developer**  
-🚀 Laravel · Vue.js · React · Next.js · APIs · SaaS · CRM · CMS · E-commerce
+🚀 Laravel · Vue.js · React · Next.js · APIs · SaaS · CRM · AI · CMS · E-commerce
 
 ---
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on full-stack Laravel/Vue/React projects for global clients
 - 👯 I’m looking to collaborate on **open source projects** and meaningful tech communities
-- 🌱 I’m currently learning deeper **DevOps, AI integrations**, and modern **Next.js features**
+- 🌱 Currently diving deeper into **AI integrations (OpenAI, automation)**, and modern **Next.js features**
 - 💬 Ask me about **Laravel architecture**, **SaaS platforms**, or **Vue/React integration**
 - 📫 How to reach me: [Upwork Profile](https://www.upwork.com/freelancers/muhammadnaeemakram) | [naeemakram884@gmail.com](mailto:naeemakram884@gmail.com)
 - ⚡ Fun fact: I love solving real-world business problems with clean, scalable code
@@ -55,6 +55,13 @@
 - **📚 Laravel Book Library API** – RESTful Laravel API for managing books, authors, and borrowing logic (JWT auth, CRUD, validation)
 - **📘 React Book Library App** – React frontend that consumes the Laravel API with clean UI, Axios integration, and state management
 
+---
+
+## 🚀 Currently Exploring
+
+- AI integration in web apps (Chatbots, content automation, smart recommendations)
+- OpenAI APIs & AI workflows
+- Advanced API design & microservices
 
 ---
 
