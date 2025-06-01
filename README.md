@@ -18,23 +18,23 @@
 
 ### 🧠 Tech Stack
 
-**Backend:** Laravel, REST APIs, Microservices  
-**Frontend:** Vue.js, React, Next.js, Blade, Livewire  
-**Database:** MySQL, PostgreSQL  
-**UI/UX:** Bootstrap, Tailwind CSS, Metronic  
-**DevOps:** GitHub, GitLab, Bitbucket, DigitalOcean, AWS  
-**Project Types:** B2B apps, SaaS, CRM, CMS, MVPs, E-commerce
+- **Backend:** Laravel, REST APIs, Microservices  
+- **Frontend:** Vue.js, React, Next.js, Blade, Livewire  
+- **Database:** MySQL, PostgreSQL  
+- **UI/UX:** Bootstrap, Tailwind CSS, Metronic  
+- **DevOps:** GitHub, GitLab, Bitbucket, DigitalOcean, AWS  
+- **Project Types:** B2B apps, SaaS, CRM, CMS, MVPs, E-commerce
 
 ---
 
 ## 🚀 What I Build
 
-> - 🧠 **SaaS Platforms** — subscription models, user management, billing
-> - 🏢 **B2B Portals** — internal tools, client dashboards, analytics
-> - 🛒 **E-commerce Apps** — product management, custom ordering flows
-> - 📋 **CRM & CMS Systems** — tailored content & client data management
-> - 📆 **Booking Systems** — calendar integrations, multi-event handling
-> - ⚙️ **Admin Dashboards** — Metronic, custom UI kits, reporting tools
+- 🧠 **SaaS Platforms** — subscription models, user management, billing
+- 🏢 **B2B Portals** — internal tools, client dashboards, analytics
+- 🛒 **E-commerce Apps** — product management, custom ordering flows
+- 📋 **CRM & CMS Systems** — tailored content & client data management
+- 📆 **Booking Systems** — calendar integrations, multi-event handling
+- ⚙️ **Admin Dashboards** — Metronic, custom UI kits, reporting tools
 
 ---
 
