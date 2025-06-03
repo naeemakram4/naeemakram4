@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **open source projects** and meaningful tech communities
 - 🌱 Currently diving deeper into **AI integrations (OpenAI, automation)**, and modern **Next.js features**
 - 💬 Ask me about **Laravel architecture**, **SaaS platforms**, or **Vue/React integration**
-- 📫 How to reach me: [Upwork Profile](https://www.upwork.com/freelancers/muhammadnaeemakram) | [naeemakram884@gmail.com](mailto:naeemakram884@gmail.com)
+- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/muhammad-naeem-akram/) | [naeemakram884@gmail.com](mailto:naeemakram884@gmail.com)
 - ⚡ Fun fact: I love solving real-world business problems with clean, scalable code
 
 ---
@@ -67,7 +67,7 @@
 
 ## 🤝 Let's Connect
 
-- 🌍 [Upwork Profile](https://www.upwork.com/freelancers/muhammadnaeemakram)
+- 🌍 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-naeem-akram/)
 - 🐙 [GitHub Projects](https://github.com/your-github)
 - 💬 [Let’s talk](mailto:naeemakram884@gmail.com)
 
